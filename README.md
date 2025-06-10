@@ -1,3 +1,4 @@
+![logo](https://github.com/bipeen-ranjan/bipeen-ranjan/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Bipeen Raj</h1>
 <h3 align="center">💡 Exploring Data Structures & Algorithms, Web Development, AI/ML, and DevOps.</h3>
 
